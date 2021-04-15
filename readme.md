@@ -4,8 +4,8 @@
 ## done by :-  
 **omar hilwah**
 
-> **_a biography about you and ask the user five qustions_**
-> **_ about your self and reply to him if the answer was right or wrong_**
+> **_a biography about you and ask the user five qustions_**  
+> **_about your self and reply to him if the answer was right or wrong_**
 
 ### Links & Resources :- 
 
