@@ -10,7 +10,7 @@ alert('Welcome to my website ' + userName);
 
 let Alien = prompt( 'Am I Alien ?');
 
-switch(Alien)
+switch(Alien.toLocaleLowerCase())
 { case 'yes':
   case 'y' :
     alert('you got me');
@@ -25,7 +25,7 @@ switch(Alien)
 }
 
 let  memes = prompt('do i like memes ?');
-switch(memes)
+switch(memes.toLocaleLowerCase())
 { case 'yes':
   case 'y' :
     alert('more than any thing');
@@ -39,7 +39,7 @@ switch(memes)
 }
 
 let  catPerson = prompt( 'Am i a cat person?');
-switch(catPerson)
+switch(catPerson.toLocaleLowerCase())
 { case 'yes':
   case 'y' :
     alert('they are adorable');
@@ -53,7 +53,7 @@ switch(catPerson)
 }
 
 let music = prompt( 'do i like music?');
-switch(music)
+switch(music.toLocaleLowerCase())
 { case 'yes':
   case 'y' :
     alert('sure thing');
